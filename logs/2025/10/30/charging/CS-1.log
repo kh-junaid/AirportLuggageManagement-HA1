@@ -1,0 +1,15 @@
+2025-10-30T10:55:13.959134200+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T10:55:13.960134400+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T10:55:13.963133400+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T10:57:04.578682800+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T10:57:04.579681300+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T10:57:04.583678800+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T10:59:22.812390700+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T10:59:22.814392100+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T10:59:22.818390900+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T11:00:18.383687900+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:00:18.384691300+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:00:18.386689400+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T11:35:49.027428800+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:35:49.028464+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:35:49.030428700+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
